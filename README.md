@@ -1,6 +1,6 @@
-# AI/ML Engineer | Generative AI • Agentic AI • RAG
+# AI/ML Engineer | GenAI, LLMs & Autonomous Agents | LangChain, OpenCLAW, GPT-4, Claude (Anthropic) | RAG, Vector DBs | Building Production AI Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/m-hasnat-afzal-526452260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/m-hasnat-afzal-526452260-0A66C2)](https://www.linkedin.com/in/m-hasnat-afzal-526452260)
 [![Email](https://img.shields.io/badge/Email-hasnat.afzal.work%40gmail.com-informational)](mailto:hasnat.afzal.work@gmail.com)
 [![Email](https://img.shields.io/badge/OfficeEmail-hasnat%40visnext.net-informational)](mailto:hasnat@visnext.net)
 
