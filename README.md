@@ -4,9 +4,12 @@
 [![Email](https://img.shields.io/badge/Email-hasnat.afzal.work%40gmail.com-informational)](mailto:hasnat.afzal.work@gmail.com)
 [![Email](https://img.shields.io/badge/OfficeEmail-hasnat%40visnext.net-informational)](mailto:hasnat@visnext.net)
 
-Hi! I’m an AI/ML Engineer at Visnext Software Solutions building production Generative AI systems—LLMs, agentic AI workflows, and RAG-backed applications.
-I focus on shipping reliable, cloud-ready AI features with strong engineering fundamentals (APIs, deployment, and iteration).
-Open to remote AI/ML + GenAI roles across the US, UK, and Middle East.
+Hi,
+I am AI/ML Engineer specializing in Generative AI, Large Language Models (LLMs), Agentic AI, and RAG-based systems.
+
+I build production-grade AI applications using GPT-4, Claude (Anthropic), and modern frameworks like LangChain and OpenCLAW, focusing on scalable architectures, real-time performance, and reliable deployment.
+
+My work combines LLM engineering, backend systems, and MLOps, delivering cloud-native AI solutions with Python, FastAPI, and AWS/GCP/Azure. I focus on low-latency AI pipelines, structured outputs, and end-to-end system design from development to production.
 
 ## Key Skills & Tech Stack
 - LLMs/APIs: GPT-4, Claude/Anthropic, Gemini, OpenAI
@@ -46,4 +49,3 @@ I contribute by sharing practical building blocks for production GenAI:
 - RAG pipelines (retrieval + evaluation patterns)
 - Docs and small snippets that make agentic AI systems easier to operate
 
-_Footer: License: MIT (add a LICENSE file) • Last updated: 2026-04-06_
