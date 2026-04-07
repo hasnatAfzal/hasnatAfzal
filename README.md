@@ -21,7 +21,7 @@ My work combines LLM engineering, backend systems, and MLOps, delivering cloud-n
 - Cloud: AWS, GCP, Azure
 - Practices: MLOps, prompt engineering, agentic AI
 
-## Projects (examples you can link to repos)
+
 ### OpenCLAW Skill: Actionable RAG Assistant
 A self-hosted, tool-using assistant that answers from internal docs and can take follow-up actions via a gated API layer.  
 **Tech:** OpenCLAW, LangChain, RAG, FastAPI, Python, Weaviate, OpenAI, GPT-4, Claude/Anthropic  
