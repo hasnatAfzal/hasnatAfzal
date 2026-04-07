@@ -39,7 +39,7 @@ An agentic AI workflow that triages tickets, drafts responses, and routes tasks 
 
 ## Work & Contact
 - Current: AI/ML Engineer — Visnext Software Solutions
-- Availability: Remote (US/UK/Middle East)
+- Availability: Remote | Hybrid | Contract 
 - Email: hasnat.afzal.work@gmail.com
 - LinkedIn: https://www.linkedin.com/in/m-hasnat-afzal-526452260
 
