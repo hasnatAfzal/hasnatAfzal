@@ -1,8 +1,8 @@
 # AI/ML Engineer | Generative AI • Agentic AI • RAG
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/m-hasnat-afzal-526452260)
-[![Email](https://img.shields.io/badge/Email-email%40example.com-informational)](mailto:hasnat.afzal.work@gmail.com)
-[![Office Email](https://img.shields.io/badge/Email-email%40example.com-informational)](mailto:hasnat@visnext.net)
+[![Email](https://img.shields.io/badge/Email-hasnat.afzal.work%40gmail.com-informational)](mailto:hasnat.afzal.work@gmail.com)
+[![Office Email](https://img.shields.io/badge/Office Email-hasnat%40visnext.net-informational)](mailto:hasnat@visnext.net)
 
 Hi! I’m an AI/ML Engineer at Visnext Software Solutions building production Generative AI systems—LLMs, agentic AI workflows, and RAG-backed applications.
 I focus on shipping reliable, cloud-ready AI features with strong engineering fundamentals (APIs, deployment, and iteration).
