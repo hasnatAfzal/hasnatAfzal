@@ -40,8 +40,8 @@ An agentic AI workflow that triages tickets, drafts responses, and routes tasks 
 ## Work & Contact
 - Current: AI/ML Engineer — Visnext Software Solutions
 - Availability: Remote (US/UK/Middle East)
-- Email: email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: hasnat.afzal.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/m-hasnat-afzal-526452260
 
 ## Contributions & OSS
 I contribute by sharing practical building blocks for production GenAI:
